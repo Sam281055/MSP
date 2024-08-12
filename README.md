@@ -1,2 +1,3 @@
 #MSP 2.5
-#Start 
+#Start App
+#Abrir otro bash y ejecutar 
