@@ -1,3 +1,3 @@
 #MSP 2.5
 #Start App
-#Abrir otro bash y ejecutar 
+#Abrir otro bash y ejecutar playit
