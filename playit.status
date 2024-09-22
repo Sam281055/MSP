@@ -1,624 +1,483 @@
-8[0mno command provided, doing auto run[2J8[0mchecking if secret key is valid[2J8[0msecret key valid, agent has 2 tunnels[2J8[0mstarting up tunnel connection[2J8[0mtunnel running[2J8[0mplayit (v0.15.18): 1726443168037 tunnel running, 2 tunnels registered
+8[0mno command provided, doing auto run[2J8[0mchecking if secret key is valid[2J8[0msecret key valid, agent has 2 tunnels[2J8[0mstarting up tunnel connection[2J8[0mtunnel running[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.18): 1727048566406 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 rates-restoration.gl.at.ply.gg:4013 => 127.0.0.1:4013 (minecraft-bedrock)
 living-large.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.18): 1726443171110 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.18): 1727048569503 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 rates-restoration.gl.at.ply.gg:4013 => 127.0.0.1:4013 (minecraft-bedrock)
 living-large.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.18): 1726443174173 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.18): 1727048572568 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 rates-restoration.gl.at.ply.gg:4013 => 127.0.0.1:4013 (minecraft-bedrock)
 living-large.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.18): 1726443177237 tunnel running, 2 tunnels registered
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.18): 1727048587669 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 rates-restoration.gl.at.ply.gg:4013 => 127.0.0.1:4013 (minecraft-bedrock)
 living-large.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.18): 1726443180310 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.18): 1727048590754 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 rates-restoration.gl.at.ply.gg:4013 => 127.0.0.1:4013 (minecraft-bedrock)
 living-large.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.18): 1726443183394 tunnel running, 2 tunnels registered
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.18): 1727048605849 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 rates-restoration.gl.at.ply.gg:4013 => 127.0.0.1:4013 (minecraft-bedrock)
 living-large.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.18): 1726443186454 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.18): 1727048608912 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 rates-restoration.gl.at.ply.gg:4013 => 127.0.0.1:4013 (minecraft-bedrock)
 living-large.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.18): 1726443189511 tunnel running, 2 tunnels registered
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.18): 1727048624020 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 rates-restoration.gl.at.ply.gg:4013 => 127.0.0.1:4013 (minecraft-bedrock)
 living-large.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.18): 1726443192573 tunnel running, 2 tunnels registered
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.18): 1727048639158 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 rates-restoration.gl.at.ply.gg:4013 => 127.0.0.1:4013 (minecraft-bedrock)
 living-large.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.18): 1726443195629 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.18): 1727048642224 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 rates-restoration.gl.at.ply.gg:4013 => 127.0.0.1:4013 (minecraft-bedrock)
 living-large.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.18): 1726443198688 tunnel running, 2 tunnels registered
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.18): 1727048657375 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 rates-restoration.gl.at.ply.gg:4013 => 127.0.0.1:4013 (minecraft-bedrock)
 living-large.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.18): 1726443201749 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.18): 1727048660442 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 rates-restoration.gl.at.ply.gg:4013 => 127.0.0.1:4013 (minecraft-bedrock)
 living-large.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.18): 1726443204804 tunnel running, 2 tunnels registered
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.18): 1727048675544 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 rates-restoration.gl.at.ply.gg:4013 => 127.0.0.1:4013 (minecraft-bedrock)
 living-large.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.18): 1726443207869 tunnel running, 2 tunnels registered
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.18): 1727048690750 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 rates-restoration.gl.at.ply.gg:4013 => 127.0.0.1:4013 (minecraft-bedrock)
 living-large.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.18): 1726443210930 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.18): 1727048693819 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 rates-restoration.gl.at.ply.gg:4013 => 127.0.0.1:4013 (minecraft-bedrock)
 living-large.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.18): 1726443213989 tunnel running, 2 tunnels registered
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.18): 1727048708929 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 rates-restoration.gl.at.ply.gg:4013 => 127.0.0.1:4013 (minecraft-bedrock)
 living-large.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.18): 1726443217047 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.18): 1727048711999 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 rates-restoration.gl.at.ply.gg:4013 => 127.0.0.1:4013 (minecraft-bedrock)
 living-large.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.18): 1726443220105 tunnel running, 2 tunnels registered
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.18): 1727048727106 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 rates-restoration.gl.at.ply.gg:4013 => 127.0.0.1:4013 (minecraft-bedrock)
 living-large.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.18): 1726443223169 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.18): 1727048730168 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 rates-restoration.gl.at.ply.gg:4013 => 127.0.0.1:4013 (minecraft-bedrock)
 living-large.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.18): 1726443226234 tunnel running, 2 tunnels registered
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.18): 1727048745262 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 rates-restoration.gl.at.ply.gg:4013 => 127.0.0.1:4013 (minecraft-bedrock)
 living-large.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.18): 1726443229292 tunnel running, 2 tunnels registered
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.18): 1727048760356 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 rates-restoration.gl.at.ply.gg:4013 => 127.0.0.1:4013 (minecraft-bedrock)
 living-large.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.18): 1726443232348 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.18): 1727048763422 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 rates-restoration.gl.at.ply.gg:4013 => 127.0.0.1:4013 (minecraft-bedrock)
 living-large.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.18): 1726443235408 tunnel running, 2 tunnels registered
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.18): 1727048778515 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 rates-restoration.gl.at.ply.gg:4013 => 127.0.0.1:4013 (minecraft-bedrock)
 living-large.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.18): 1726443238479 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.18): 1727048781580 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 rates-restoration.gl.at.ply.gg:4013 => 127.0.0.1:4013 (minecraft-bedrock)
 living-large.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.18): 1726443241543 tunnel running, 2 tunnels registered
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.18): 1727048796672 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 rates-restoration.gl.at.ply.gg:4013 => 127.0.0.1:4013 (minecraft-bedrock)
 living-large.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.18): 1726443244602 tunnel running, 2 tunnels registered
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.18): 1727048811762 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 rates-restoration.gl.at.ply.gg:4013 => 127.0.0.1:4013 (minecraft-bedrock)
 living-large.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.18): 1726443247659 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.18): 1727048814831 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 rates-restoration.gl.at.ply.gg:4013 => 127.0.0.1:4013 (minecraft-bedrock)
 living-large.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.18): 1726443250727 tunnel running, 2 tunnels registered
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.18): 1727048829987 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 rates-restoration.gl.at.ply.gg:4013 => 127.0.0.1:4013 (minecraft-bedrock)
 living-large.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.18): 1726443253789 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.18): 1727048833054 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 rates-restoration.gl.at.ply.gg:4013 => 127.0.0.1:4013 (minecraft-bedrock)
 living-large.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.18): 1726443256848 tunnel running, 2 tunnels registered
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.18): 1727048848163 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 rates-restoration.gl.at.ply.gg:4013 => 127.0.0.1:4013 (minecraft-bedrock)
 living-large.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.18): 1726443259907 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.18): 1727048851268 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 rates-restoration.gl.at.ply.gg:4013 => 127.0.0.1:4013 (minecraft-bedrock)
 living-large.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.18): 1726443262983 tunnel running, 2 tunnels registered
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.18): 1727048866360 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 rates-restoration.gl.at.ply.gg:4013 => 127.0.0.1:4013 (minecraft-bedrock)
 living-large.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.18): 1726443266039 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.18): 1727048869424 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 rates-restoration.gl.at.ply.gg:4013 => 127.0.0.1:4013 (minecraft-bedrock)
 living-large.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.18): 1726443269125 tunnel running, 2 tunnels registered
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.18): 1727048884532 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 rates-restoration.gl.at.ply.gg:4013 => 127.0.0.1:4013 (minecraft-bedrock)
 living-large.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.18): 1726443272185 tunnel running, 2 tunnels registered
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.18): 1727048899631 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 rates-restoration.gl.at.ply.gg:4013 => 127.0.0.1:4013 (minecraft-bedrock)
 living-large.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.18): 1726443275374 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.18): 1727048902708 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 rates-restoration.gl.at.ply.gg:4013 => 127.0.0.1:4013 (minecraft-bedrock)
 living-large.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.18): 1726443278446 tunnel running, 2 tunnels registered
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.18): 1727048917806 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 rates-restoration.gl.at.ply.gg:4013 => 127.0.0.1:4013 (minecraft-bedrock)
 living-large.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.18): 1726443281526 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.18): 1727048920872 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 rates-restoration.gl.at.ply.gg:4013 => 127.0.0.1:4013 (minecraft-bedrock)
 living-large.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.18): 1726443284605 tunnel running, 2 tunnels registered
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.18): 1727048935968 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 rates-restoration.gl.at.ply.gg:4013 => 127.0.0.1:4013 (minecraft-bedrock)
 living-large.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.18): 1726443287664 tunnel running, 2 tunnels registered
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.18): 1727048951061 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 rates-restoration.gl.at.ply.gg:4013 => 127.0.0.1:4013 (minecraft-bedrock)
 living-large.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.18): 1726443290723 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.18): 1727048954134 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 rates-restoration.gl.at.ply.gg:4013 => 127.0.0.1:4013 (minecraft-bedrock)
 living-large.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.18): 1726443293790 tunnel running, 2 tunnels registered
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.18): 1727048969232 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 rates-restoration.gl.at.ply.gg:4013 => 127.0.0.1:4013 (minecraft-bedrock)
 living-large.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.18): 1726443296861 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.18): 1727048972297 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 rates-restoration.gl.at.ply.gg:4013 => 127.0.0.1:4013 (minecraft-bedrock)
 living-large.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.18): 1726443299925 tunnel running, 2 tunnels registered
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.18): 1727048987388 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 rates-restoration.gl.at.ply.gg:4013 => 127.0.0.1:4013 (minecraft-bedrock)
 living-large.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.18): 1726443302981 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.18): 1727048990450 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 rates-restoration.gl.at.ply.gg:4013 => 127.0.0.1:4013 (minecraft-bedrock)
 living-large.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.18): 1726443306042 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.18): 1727048993521 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 rates-restoration.gl.at.ply.gg:4013 => 127.0.0.1:4013 (minecraft-bedrock)
 living-large.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.18): 1726443309110 tunnel running, 2 tunnels registered
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.18): 1727049008954 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 rates-restoration.gl.at.ply.gg:4013 => 127.0.0.1:4013 (minecraft-bedrock)
 living-large.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.18): 1726443312177 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.18): 1727049012020 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 rates-restoration.gl.at.ply.gg:4013 => 127.0.0.1:4013 (minecraft-bedrock)
 living-large.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.18): 1726443315281 tunnel running, 2 tunnels registered
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.18): 1727049027111 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 rates-restoration.gl.at.ply.gg:4013 => 127.0.0.1:4013 (minecraft-bedrock)
 living-large.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.18): 1726443318348 tunnel running, 2 tunnels registered
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.18): 1727049042226 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 rates-restoration.gl.at.ply.gg:4013 => 127.0.0.1:4013 (minecraft-bedrock)
 living-large.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.18): 1726443321416 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.18): 1727049045285 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 rates-restoration.gl.at.ply.gg:4013 => 127.0.0.1:4013 (minecraft-bedrock)
 living-large.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.18): 1726443324478 tunnel running, 2 tunnels registered
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.18): 1727049060394 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 rates-restoration.gl.at.ply.gg:4013 => 127.0.0.1:4013 (minecraft-bedrock)
 living-large.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.18): 1726443327542 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.18): 1727049063477 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 rates-restoration.gl.at.ply.gg:4013 => 127.0.0.1:4013 (minecraft-bedrock)
 living-large.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.18): 1726443330611 tunnel running, 2 tunnels registered
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.18): 1727049078581 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 rates-restoration.gl.at.ply.gg:4013 => 127.0.0.1:4013 (minecraft-bedrock)
 living-large.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.18): 1726443333676 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.18): 1727049081647 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 rates-restoration.gl.at.ply.gg:4013 => 127.0.0.1:4013 (minecraft-bedrock)
 living-large.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.18): 1726443336741 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.18): 1727049084706 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 rates-restoration.gl.at.ply.gg:4013 => 127.0.0.1:4013 (minecraft-bedrock)
 living-large.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.18): 1726443339807 tunnel running, 2 tunnels registered
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.18): 1727049099808 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 rates-restoration.gl.at.ply.gg:4013 => 127.0.0.1:4013 (minecraft-bedrock)
 living-large.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.18): 1726443342941 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.18): 1727049102886 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 rates-restoration.gl.at.ply.gg:4013 => 127.0.0.1:4013 (minecraft-bedrock)
 living-large.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.18): 1726443346025 tunnel running, 2 tunnels registered
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.18): 1727049117985 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 rates-restoration.gl.at.ply.gg:4013 => 127.0.0.1:4013 (minecraft-bedrock)
 living-large.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.18): 1726443349120 tunnel running, 2 tunnels registered
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.18): 1727049133081 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 rates-restoration.gl.at.ply.gg:4013 => 127.0.0.1:4013 (minecraft-bedrock)
 living-large.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.18): 1726443352185 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.18): 1727049136151 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 rates-restoration.gl.at.ply.gg:4013 => 127.0.0.1:4013 (minecraft-bedrock)
 living-large.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.18): 1726443355251 tunnel running, 2 tunnels registered
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.18): 1727049151257 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 rates-restoration.gl.at.ply.gg:4013 => 127.0.0.1:4013 (minecraft-bedrock)
 living-large.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.18): 1726443358315 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.18): 1727049154319 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 rates-restoration.gl.at.ply.gg:4013 => 127.0.0.1:4013 (minecraft-bedrock)
 living-large.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.18): 1726443361401 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-rates-restoration.gl.at.ply.gg:4013 => 127.0.0.1:4013 (minecraft-bedrock)
-living-large.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.18): 1726443364469 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-rates-restoration.gl.at.ply.gg:4013 => 127.0.0.1:4013 (minecraft-bedrock)
-living-large.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.18): 1726443367530 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-rates-restoration.gl.at.ply.gg:4013 => 127.0.0.1:4013 (minecraft-bedrock)
-living-large.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.18): 1726443370604 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-rates-restoration.gl.at.ply.gg:4013 => 127.0.0.1:4013 (minecraft-bedrock)
-living-large.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.18): 1726443373672 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-rates-restoration.gl.at.ply.gg:4013 => 127.0.0.1:4013 (minecraft-bedrock)
-living-large.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.18): 1726443376729 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-rates-restoration.gl.at.ply.gg:4013 => 127.0.0.1:4013 (minecraft-bedrock)
-living-large.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.18): 1726443379788 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-rates-restoration.gl.at.ply.gg:4013 => 127.0.0.1:4013 (minecraft-bedrock)
-living-large.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.18): 1726443382851 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-rates-restoration.gl.at.ply.gg:4013 => 127.0.0.1:4013 (minecraft-bedrock)
-living-large.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.18): 1726443385905 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-rates-restoration.gl.at.ply.gg:4013 => 127.0.0.1:4013 (minecraft-bedrock)
-living-large.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.18): 1726443388961 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-rates-restoration.gl.at.ply.gg:4013 => 127.0.0.1:4013 (minecraft-bedrock)
-living-large.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.18): 1726443392017 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-rates-restoration.gl.at.ply.gg:4013 => 127.0.0.1:4013 (minecraft-bedrock)
-living-large.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.18): 1726443395084 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-rates-restoration.gl.at.ply.gg:4013 => 127.0.0.1:4013 (minecraft-bedrock)
-living-large.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.18): 1726443398150 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-rates-restoration.gl.at.ply.gg:4013 => 127.0.0.1:4013 (minecraft-bedrock)
-living-large.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.18): 1726443401236 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-rates-restoration.gl.at.ply.gg:4013 => 127.0.0.1:4013 (minecraft-bedrock)
-living-large.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.18): 1726443404292 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-rates-restoration.gl.at.ply.gg:4013 => 127.0.0.1:4013 (minecraft-bedrock)
-living-large.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.18): 1726443407352 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-rates-restoration.gl.at.ply.gg:4013 => 127.0.0.1:4013 (minecraft-bedrock)
-living-large.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.18): 1726443410419 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-rates-restoration.gl.at.ply.gg:4013 => 127.0.0.1:4013 (minecraft-bedrock)
-living-large.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.18): 1726443413477 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-rates-restoration.gl.at.ply.gg:4013 => 127.0.0.1:4013 (minecraft-bedrock)
-living-large.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.18): 1726443416585 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-rates-restoration.gl.at.ply.gg:4013 => 127.0.0.1:4013 (minecraft-bedrock)
-living-large.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.18): 1726443419658 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-rates-restoration.gl.at.ply.gg:4013 => 127.0.0.1:4013 (minecraft-bedrock)
-living-large.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.18): 1726443422733 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-rates-restoration.gl.at.ply.gg:4013 => 127.0.0.1:4013 (minecraft-bedrock)
-living-large.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.18): 1726443425799 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-rates-restoration.gl.at.ply.gg:4013 => 127.0.0.1:4013 (minecraft-bedrock)
-living-large.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.18): 1726443428860 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-rates-restoration.gl.at.ply.gg:4013 => 127.0.0.1:4013 (minecraft-bedrock)
-living-large.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.18): 1726443431923 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-rates-restoration.gl.at.ply.gg:4013 => 127.0.0.1:4013 (minecraft-bedrock)
-living-large.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.18): 1726443434999 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-rates-restoration.gl.at.ply.gg:4013 => 127.0.0.1:4013 (minecraft-bedrock)
-living-large.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.18): 1726443438067 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-rates-restoration.gl.at.ply.gg:4013 => 127.0.0.1:4013 (minecraft-bedrock)
-living-large.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.18): 1726443441127 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-rates-restoration.gl.at.ply.gg:4013 => 127.0.0.1:4013 (minecraft-bedrock)
-living-large.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.18): 1726443444260 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-rates-restoration.gl.at.ply.gg:4013 => 127.0.0.1:4013 (minecraft-bedrock)
-living-large.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.18): 1726443447325 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-rates-restoration.gl.at.ply.gg:4013 => 127.0.0.1:4013 (minecraft-bedrock)
-living-large.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.18): 1726443450388 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-rates-restoration.gl.at.ply.gg:4013 => 127.0.0.1:4013 (minecraft-bedrock)
-living-large.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.18): 1726443453446 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-rates-restoration.gl.at.ply.gg:4013 => 127.0.0.1:4013 (minecraft-bedrock)
-living-large.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.18): 1726443456504 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-rates-restoration.gl.at.ply.gg:4013 => 127.0.0.1:4013 (minecraft-bedrock)
-living-large.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.18): 1726443459564 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-rates-restoration.gl.at.ply.gg:4013 => 127.0.0.1:4013 (minecraft-bedrock)
-living-large.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.18): 1726443462641 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-rates-restoration.gl.at.ply.gg:4013 => 127.0.0.1:4013 (minecraft-bedrock)
-living-large.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.18): 1726443465701 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-rates-restoration.gl.at.ply.gg:4013 => 127.0.0.1:4013 (minecraft-bedrock)
-living-large.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.18): 1726443468764 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-rates-restoration.gl.at.ply.gg:4013 => 127.0.0.1:4013 (minecraft-bedrock)
-living-large.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.18): 1726443471822 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-rates-restoration.gl.at.ply.gg:4013 => 127.0.0.1:4013 (minecraft-bedrock)
-living-large.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.18): 1726443474895 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-rates-restoration.gl.at.ply.gg:4013 => 127.0.0.1:4013 (minecraft-bedrock)
-living-large.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.18): 1726443477961 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-rates-restoration.gl.at.ply.gg:4013 => 127.0.0.1:4013 (minecraft-bedrock)
-living-large.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.18): 1726443481022 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-rates-restoration.gl.at.ply.gg:4013 => 127.0.0.1:4013 (minecraft-bedrock)
-living-large.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.18): 1726443484082 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-rates-restoration.gl.at.ply.gg:4013 => 127.0.0.1:4013 (minecraft-bedrock)
-living-large.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
